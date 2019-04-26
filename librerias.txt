@@ -1,0 +1,4 @@
+telebot
+omdb
+json
+requests
